@@ -33,16 +33,16 @@
 - The EVM
 
 
-# Lesson 2: [Storage Factory](https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/StorageFactory.sol)
-💻 Code: https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/StorageFactory.sol
+# Lesson 2: [Storage Factory](https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/StorageFactory)
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/StorageFactory
 ### Inheritance, Factory Pattern, and Interacting with External Contracts
 - Factory Pattern
 - Imports
 - Deploy a Contract From a Contract
 - Interact With a Deployed Contract
 
-# Lesson 3: [Fund Me](https://github.com/smaul0/Hacking-the-Blockchain/tree/main/Solidity/Codes/FundMe)
-💻 Code: https://github.com/smaul0/Hacking-the-Blockchain/tree/main/Solidity/Codes/FundMe
+# Lesson 3: [Fund Me](https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/FundMe)
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/FundMe
 ### Payable, msg.sender, msg.value, Units of Measure
 - Payable
 - [Wei/Gwei/Eth Converter](https://eth-converter.com/)
