@@ -1,5 +1,5 @@
 # Lesson 1: [Simple Storage Contract](https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/SimpleStorage)
-💻 Code: https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/SimpleStorage.sol
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/SimpleStorage/SimpleStorage.sol
 
 ### [Remix](https://remix.ethereum.org/)
 
