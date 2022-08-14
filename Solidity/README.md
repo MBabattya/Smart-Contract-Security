@@ -91,8 +91,8 @@
 - Forcing a Transaction
 
   
-  # Lesson 4: [Web3.py Simple Storage](https://github.com/smaul0/Hacking-the-Blockchain/tree/main/Solidity/Codes/Web3_py_Simple_Storage)
-💻 Code: https://github.com/smaul0/Hacking-the-Blockchain/tree/main/Solidity/Codes/Web3_py_Simple_Storage
+  # Lesson 4: [Web3.py Simple Storage](https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/Web3_py_Simple_Storage)
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/Web3_py_Simple_Storage
 ### Installing VSCode, Python, and Web3
 - [Developer Bootcamp Setup Instructions (metamask, vscode, python, nodejs..)](https://chain.link/bootcamp/brownie-setup-instructions)
 - [VSCode](https://code.visualstudio.com/download)
