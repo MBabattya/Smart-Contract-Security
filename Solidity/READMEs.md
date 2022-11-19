@@ -1,6 +1,6 @@
 
 
-# Lesson 2: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
+# Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
 
 *[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s)*
 
@@ -70,7 +70,7 @@
 ## The EVM & A Recap of Lesson 2
 -   The EVM
 
-# Lesson 3: Remix Storage Factory
+# Lesson 2: Remix Storage Factory
 
 *[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=11134s)*
 
@@ -94,7 +94,7 @@
 
 ## Lesson 3 Recap
 
-# Lesson 4: Remix Fund Me
+# Lesson 3: Remix Fund Me
 
 *[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12715s)*
 
@@ -195,7 +195,7 @@
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Solidity Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
 
-# Lesson 5: Ethers.js Simple Storage
+# Lesson 4: Ethers.js Simple Storage
 
 *[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19842s)*
 
@@ -347,7 +347,7 @@ In your `.vscode/settings.json` file.
 ## Lesson 5 Recap
 ### Typescript Ethers Simple Storage
 
-# Lesson 6: Hardhat Simple Storage
+# Lesson 5: Hardhat Simple Storage
 
 *[⌨️ (08:20:17) Lesson 6: Hardhat Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30017s)*
 
