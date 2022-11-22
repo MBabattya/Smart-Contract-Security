@@ -190,7 +190,7 @@
 
 
 
-# Lesson 5: Ethers.js Simple Storage
+# Lesson 4: Ethers.js Simple Storage
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
@@ -298,7 +298,7 @@ In your `.vscode/settings.json` file.
 ## Lesson 5 Recap
 ### Typescript Ethers Simple Storage
 
-# Lesson 6: Hardhat Simple Storage
+# Lesson 5: Hardhat Simple Storage
 
 *[⌨️ (08:20:17) Lesson 6: Hardhat Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30017s)*
 
@@ -360,17 +360,13 @@ In your `.vscode/settings.json` file.
 ## Hardhat Waffle
 *[⌨️ (09:47:02) Hardhat Waffle](https://youtu.be/gyMwXuJrbJQ?t=35222)*
 - [Hardhat-Waffle](https://npm.io/package/@nomiclabs/hardhat-waffle)
-## Lesson 6 Recap
-*[⌨️ (09:47:37) Lesson 6 Recap](https://youtu.be/gyMwXuJrbJQ?t=35257)*
-### Typescript Hardhat Simple Storage
-*[⌨️ (09:52:15) Typescript Hardhat Simple Storage](https://youtu.be/gyMwXuJrbJQ?t=35535)*
-- [Typechain](https://github.com/dethcrypto/TypeChain)
+
 
 ```
 yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript
 ```
 
-# Lesson 7: Hardhat Fund Me
+# Lesson 6: Hardhat Fund Me
 
 *[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
 
