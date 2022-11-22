@@ -91,11 +91,11 @@
 - [Inheritance](https://solidity-by-example.org/inheritance) 
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
-## Lesson 3 Recap
+
 
 # Lesson 4: Remix Fund Me
 
-*[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12715s)*
+
 
 💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
 
