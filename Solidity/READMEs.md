@@ -5,9 +5,9 @@
 
 # Lesson 2: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
 
-*[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s)*
 
-💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
+
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/SimpleStorage/SimpleStorage.sol
 
 ## Introduction
 - [Remix](https://remix.ethereum.org/)
