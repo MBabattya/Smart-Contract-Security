@@ -460,13 +460,13 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-# Lesson 9: Hardhat Smart Contract Lottery
+# Lesson 6: Hardhat Smart Contract Lottery
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
 ## Introduction
 ## Hardhat Setup - Smart Contract Lottery
-*[⌨️ (13:43:43) Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=49423)*
+
 - Install dependencies:
 ```bash
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv
@@ -532,118 +532,8 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ### Recommended LINK amounts for Goerli Staging Test:
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
-## Conclusion
-## Typescript - Smart Contract Lottery
 
-🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Hardhat Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
-
-# Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
-
-*[⌨️ (16:34:07) Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=59647s)*
-
-💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
-
-⚡️⚡️ Live Demo IPFS: ipfs://QmXwACyjcS8tL7UkYwimpqMqW9sKzSHUjE4uSZBSyQVuEH
-
-⚡️⚡️ Live Demo Fleek: https://fancy-dream-3458.on.fleek.co/
-
-## Introduction
-We move into using [NextJS](https://nextjs.org/) for our front end. NextJS is a [React framework](https://reactjs.org/) for building websites. 
-
-### Optional Sub-Lesson: Full Stack Development & Other Libraries
-- [6 Ways to connect your dapp to a wallet](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
-- [NextJS Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
-- Other React libraries:
-  - [Web3React](https://github.com/NoahZinsmeister/web3-react)
-  - [wagmi](https://github.com/tmm/wagmi)
-  - [react-moralis](https://www.npmjs.com/package/react-moralis)
-  - [useDapp](https://github.com/TrueFiEng/useDApp)
-  - [Web3Modal](https://github.com/Web3Modal/web3modal)
-  - [useMetamask](https://github.com/mdtanrikulu/use-metamask)
-- Other Full Stack Web3 Templates
-  - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
-  - [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
-  - [create-eth-app](https://github.com/paulrberg/create-eth-app)
-- [React being quite popular](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks)
-- [Why use react?](https://www.freecodecamp.org/news/why-use-react-for-web-development/)
-
-## NextJS Setup
-- [NextJS Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
-- [NextJS Minimal Ethers Example For Lottery](https://github.com/PatrickAlphaC/nextjs-ethers-introduction)
-
-```
-yarn create next-app .
-```
-## Manual Header I
-- [What is a component?](https://www.w3schools.com/react/react_components.asp)
-- [jsx](https://reactjs.org/docs/introducing-jsx.html)
-- [Moralis](https://moralis.io/)
-- [React Moralis](https://github.com/MoralisWeb3/react-moralis)
-### React Hooks
-- [What is a react hook?](https://reactjs.org/docs/hooks-overview.html)
-## Manual Header II
-## useEffect Hook
-- [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
-- [More on useEffect](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
-- [React Context](https://www.freecodecamp.org/news/react-context-for-beginners/)
-  - [useEffect Firing Twice](https://stackoverflow.com/questions/60618844/react-hooks-useeffect-is-called-twice-even-if-an-empty-array-is-used-as-an-ar)
-## Local Storage
-- [Local Storage](https://codinglead.co/javascript/what-is-localstorage)
-## isWeb3EnabledLoading
-## web3uikit
-- [web3uikit](https://github.com/web3ui/web3uikit)
-- [web3uikit interactive docs](https://web3ui.github.io/web3uikit/?path=/story/1-web3-blockie--custom-seed)
-- [web3uikit connect button](https://web3ui.github.io/web3uikit/?path=/story/1-web3-connectbutton--default)
-## Introduction to Calling Functions in Nextjs
-- [useWeb3Contract](https://github.com/MoralisWeb3/react-moralis#useweb3contract)
-### Automatic Constant Value UI Updater
-- [ethers.utils.FormatTypes](https://docs.ethers.io/v5/api/utils/abi/fragments/#fragments--formats)
-### runContractFunction
-- [Moralis Provider](https://github.com/MoralisWeb3/react-moralis#wrap-your-app-in-a-moralisprovider)
-- [useMoralis](https://github.com/MoralisWeb3/react-moralis#usemoralis)
-- [parseInt](https://www.w3schools.com/JSREF/jsref_parseint.asp)
-## useState
-- [useState Hook](https://reactjs.org/docs/hooks-state.html)
-## Calling Functions in NextJS
-## useNotification
-- Add `onError` to all your `runContractFunction` calls
-## Reading & Displaying Contract Data
-## A Note about `onSuccess`
-- `onSuccess` just checks to see if MetaMask sends the transaction, not 
-## A Challenge to You
-## Tailwind & Styling
-- [Learn CSS](https://www.w3schools.com/css/)
-- [Tailwindcss](https://tailwindcss.com/)
-- [PostCSS Extension](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
-- [Tailwind Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- [Install Tailwind into NextJS](https://tailwindcss.com/docs/guides/nextjs)
-## Introduction to Hosting your Site
-*[⌨️ (18:12:50) Introdunction to Hosting your Site](https://youtu.be/gyMwXuJrbJQ?t=65570)*
-- [Vercel](https://vercel.com/)
-- [Moralis](https://moralis.io/)
-- [Netilfy](https://www.netlify.com/)
-- [IPFS](https://ipfs.io/)
-## IPFS
-*[⌨️ (18:15:14) IPFS](https://youtu.be/gyMwXuJrbJQ?t=65714)*
-- [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
-- [IPFS](https://ipfs.io/)
-## Hosting on IPFS
-*[⌨️ (18:18:51) Hosting on IPFS](https://youtu.be/gyMwXuJrbJQ?t=65931)*
-- [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch)
-- [Brave Browser](https://brave.com/)
-- `yarn build && yarn next export`
-## Hosting on IPFS & Filecoin using Fleek
-*[⌨️ (18:25:45) Hosting on IPFS & Filecoin using Fleek](https://youtu.be/gyMwXuJrbJQ?t=66345)*
-- [Fleek](https://fleek.co/)
-## Filecoin Overview
-*[⌨️ (18:31:28) Filecoin Overview](https://youtu.be/gyMwXuJrbJQ?t=66688)*
-- [Special Guest Ally Haire](https://twitter.com/DeveloperAlly)
-- [IPFS URL of Ally's Video](ipfs://bafybeiasd6oxqiefoxgtskrokomexnb4zcq3fhwlcbyplx2paw65zmq2du)
-## Lesson 10 Recap
-
-# Lesson 11: Hardhat Starter Kit
-
-*[⌨️ (18:51:36) Lesson 11: Hardhat Starter Kit](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=67896s)*
+# Lesson 7: Hardhat Starter Kit
 
 💻 Code: https://github.com/smartcontractkit/hardhat-starter-kit
 
