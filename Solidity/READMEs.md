@@ -188,13 +188,9 @@
 - [Fallback](https://solidity-by-example.org/fallback)
 - [Receive](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#receive-ether-function)
 
-## Lesson 4 Recap
 
-🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Solidity Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
 
 # Lesson 5: Ethers.js Simple Storage
-
-*[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19842s)*
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
