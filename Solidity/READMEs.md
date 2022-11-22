@@ -295,70 +295,64 @@ In your `.vscode/settings.json` file.
 ## Alchemy Dashboard & The Mempool
 - [Special Guest Albert Hu](https://twitter.com/thatguyintech)
 - [Mempool](https://ethereum.org/en/developers/tutorials/sending-transactions-using-web3-and-alchemy/#see-your-transaction-in-the-mempool)
-## Lesson 5 Recap
-### Typescript Ethers Simple Storage
+
 
 # Lesson 5: Hardhat Simple Storage
 
-*[⌨️ (08:20:17) Lesson 6: Hardhat Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30017s)*
+
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
-## Introduction
-*[⌨️ (08:20:19) Introduction](https://youtu.be/gyMwXuJrbJQ?t=30019)*
+
 ## Hardhat Setup
-*[⌨️ (08:22:47) Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=30167)*
+
 - [Hardhat Documentation](https://hardhat.org/)
 - [DevDependencies vs Dependencies](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 - [@ Sign node modules](https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages)
 
 ### Troubleshooting Hardhat Setup
-*[⌨️ (08:29:43) Troubleshooting Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=30583)*
 - [Special Guest Cami Ramos Garzon](https://twitter.com/camiinthisthang)
 ## Hardhat Setup Continued
-*[⌨️ (08:31:48) Hardhat Setup Continued](https://youtu.be/gyMwXuJrbJQ?t=30708)*
 ## Deploying SimpleStorage from Hardhat
-*[⌨️ (08:33:10) Deploying SimpleStorage from Hardhat](https://youtu.be/gyMwXuJrbJQ?t=30790)*
+
 ## Networks in Hardhat
-*[⌨️ (08:41:44) Networks in Hardhat](https://youtu.be/gyMwXuJrbJQ?t=31304)*
 - [The Hardhat Network](https://hardhat.org/hardhat-network/)
 - [Hardhat configuration](https://hardhat.org/config/#configuration)
 - [Chain ID List](https://chainlist.org/)
 ## Programmatic Verification
-*[⌨️ (08:51:16) Programmatic Verification](https://youtu.be/gyMwXuJrbJQ?t=31876)*
+
 - [Etherscan Verify Tutorial](https://docs.etherscan.io/tutorials/verifying-contracts-programmatically)
 - [Etherscan Docs](https://docs.etherscan.io/)
 - [Hardhat-Etherscan](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html)
 - [Etherscan API Keys](https://info.etherscan.com/api-keys/)
 - [Javascript == vs ===](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons)
 ## Interacting with Contracts in Hardhat
-*[⌨️ (09:06:37) Interacting with Contracts in Hardhat](https://youtu.be/gyMwXuJrbJQ?t=32797)*
+
 ## Artifacts Troubleshooting
-*[⌨️ (09:09:42) Artifacts Troubleshooting](https://youtu.be/gyMwXuJrbJQ?t=32982)*
+
 ## Custom Hardhat Tasks
-*[⌨️ (09:10:52) Custom Hardhat Tasks](https://youtu.be/gyMwXuJrbJQ?t=33052)*
+
 - [Hardhat Tasks](https://hardhat.org/guides/create-task.html)
 - [Javascript Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 ## Hardhat Localhost Node
-*[⌨️ (09:18:12) Hardhat Localhost Node](https://youtu.be/gyMwXuJrbJQ?t=33492)*
+
 ## The Hardhat Console
-*[⌨️ (09:23:11) The Hardhat Console](https://youtu.be/gyMwXuJrbJQ?t=33791)*
+
 - [Hardhat Console](https://hardhat.org/guides/hardhat-console.html)
 ## Hardhat Tests
-*[⌨️ (09:26:13) Hardhat Tests](https://youtu.be/gyMwXuJrbJQ?t=33973)*
+
 - [Hardhat Tests](https://hardhat.org/tutorial/testing-contracts.html#_5-testing-contracts)
 - [Mocha Style Tests](https://mochajs.org/)
 - [Chai](https://www.npmjs.com/package/chai)
 - [Waffle Tests](https://ethereum-waffle.readthedocs.io/en/latest/)
 ## Hardhat Gas Reporter
-*[⌨️ (09:38:10) Hardhat Gas Reporter](https://youtu.be/gyMwXuJrbJQ?t=34690)*
-- [Hardhat Gas Reporter](https://www.npmjs.com/package/hardhat-gas-reporter)
+
 - [Coinmarketcap API](https://coinmarketcap.com/api/)
 ## Solidity Coverage
-*[⌨️ (09:44:40) Solidity Coverage](https://youtu.be/gyMwXuJrbJQ?t=35080)*
+
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
 ## Hardhat Waffle
-*[⌨️ (09:47:02) Hardhat Waffle](https://youtu.be/gyMwXuJrbJQ?t=35222)*
+
 - [Hardhat-Waffle](https://npm.io/package/@nomiclabs/hardhat-waffle)
 
 
@@ -372,43 +366,43 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
 ## Introduction
-*[⌨️ (10:00:50) Introduction](https://youtu.be/gyMwXuJrbJQ?t=36050)*
+
 ## Hardhat Setup - Fund Me
-*[⌨️ (10:03:41) Hardhat Setup - Fund Me](https://youtu.be/gyMwXuJrbJQ?t=36221)*
+
 ## Linting
-*[⌨️ (10:06:20) Linting](https://youtu.be/gyMwXuJrbJQ?t=36380)*
+
 - [Eslint](https://eslint.org/)
 - [Solhint](https://github.com/protofire/solhint)
 - [Linting Code](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
 ## Hardhat Setup - Fund Me - Continued
-*[⌨️ (10:07:47) Hardhat Setup - Fund Me - Continued](https://youtu.be/gyMwXuJrbJQ?t=36467)*
+
 ## Importing from NPM
-*[⌨️ (10:09:38) Importing from NPM](https://youtu.be/gyMwXuJrbJQ?t=36578)*
+
 - [@chainlink/contracts](https://www.npmjs.com/package/@chainlink/contracts)
 ## Hardhat Deploy
-*[⌨️ (10:10:43) Hardhat Deploy](https://youtu.be/gyMwXuJrbJQ?t=36643)*
+
 - [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy)
 ## Mocking
-*[⌨️ (10:21:05) Mocking](https://youtu.be/gyMwXuJrbJQ?t=37265)*
+
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Aave Github](https://github.com/aave/aave-v3-core)
 - [Chainlink Github](https://github.com/smartcontractkit/chainlink)
 - Multiple Versions of Solidity
 - Tags in hardhat
 ## Utils Folder
-*[⌨️ (10:52:51) Utils Folder](https://youtu.be/gyMwXuJrbJQ?t=39171)*
+
 ## Testnet Demo - Hardhat Fund Me
-*[⌨️ (10:55:45) Testnet Demo - Hardhat Fund Me](https://youtu.be/gyMwXuJrbJQ?t=39345)*
+
 - Hardhat Deploy Block Confirmations
 ### TypeScript
 - [Code file](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc/blob/84271e7002e55d86c90b26466ff27bc067f25de0/deploy/01-deploy-fund-me.ts#L29) (TypeScript edition)
 - Define blockConfirmations in the `helper-hardhat-config.ts` file instead of `hardhat-config.js`. 
 ## Solidity Style Guide
-*[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
+
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 ## Testing Fund Me
-*[⌨️ (11:08:36) Testing Fund Me](https://youtu.be/gyMwXuJrbJQ?t=40116)*
+
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 - [Hardhat Deploy Fixtures](https://github.com/wighawag/hardhat-deploy#creating-fixtures)
 - [ethers.getContract](https://github.com/wighawag/hardhat-deploy-ethers)
@@ -416,24 +410,24 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [ethers.utils.parseUnits](https://docs.ethers.io/v5/api/utils/display-logic/#utils-parseUnits)
 - [Waffle Chai Matchers](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
 ## Breakpoints & Debugging
-*[⌨️ (11:30:39) Breakpoints & Debugging](https://youtu.be/gyMwXuJrbJQ?t=41439)*
+
 - [VSCode Breakpoints](https://code.visualstudio.com/Docs/editor/debugging)
 ## Gas III 
-*[⌨️ (11:33:40) Gas III](https://youtu.be/gyMwXuJrbJQ?t=41620)*
+
 - [Transaction Response](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)
 - [Transaction Receipt](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionReceipt)
 ## console.log & Debugging
-*[⌨️ (11:36:35) console.log & Debugging](https://youtu.be/gyMwXuJrbJQ?t=41795)*
+
 - [Hardhat console.log](https://hardhat.org/hardhat-network/reference/#console-log)
 ## Testing Fund Me II
-*[⌨️ (11:37:31) Testing Fund Me II](https://youtu.be/gyMwXuJrbJQ?t=41851)*
+
 ## Storage in Solidity
-*[⌨️ (11:44:34) Storage in Solidity](https://youtu.be/gyMwXuJrbJQ?t=42274)*
+
 - [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 - [getStorageAt](https://docs.ethers.io/v5/api/providers/provider/#Provider-getStorageAt)
 ## Gas Optimizations using Storage Knowledge
-*[⌨️ (11:52:38) Gas Optimizations using Storage Knowledge](https://youtu.be/gyMwXuJrbJQ?t=42758)*
+
 - [Opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
 - [Opcodes by Gas](https://evm.codes/)
@@ -441,19 +435,19 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - Append `i_` to immutable variables
 - Caps lock and underscore constant variables
 ## Solidity Chainlink Style Guide
-*[⌨️ (12:05:29) Solidity Chainlink Style Guide](https://youtu.be/gyMwXuJrbJQ?t=43529)*
+
 - [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 ## Storage Review
-*[⌨️ (12:09:59) Storage Review](https://youtu.be/gyMwXuJrbJQ?t=43799)*
+
 ## Staging Tests
-*[⌨️ (12:11:43) Staging Tests](https://youtu.be/gyMwXuJrbJQ?t=43903)*
+
 - [Ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 ## Running Scripts on a Local Node
-*[⌨️ (12:17:58) Running Scripts on a Local Node](https://youtu.be/gyMwXuJrbJQ?t=44278)*
+
 ## Adding Scripts to your package.json
-*[⌨️ (12:22:00) Adding Scripts to your package.json](https://youtu.be/gyMwXuJrbJQ?t=44520)*
+
 ## Pushing to GitHub
-*[⌨️ (12:25:17) Pushing to GitHub](https://youtu.be/gyMwXuJrbJQ?t=44717)*
+
 - [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
@@ -475,23 +469,23 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node ts-node typechain typescript
 ```
 ## Raffle.sol Setup
-*[⌨️ (13:46:55) Raffle.sol Setup](https://youtu.be/gyMwXuJrbJQ?t=49615)*
+
 - [Custom Errors in Solidity](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 ## Introduction to Events
-*[⌨️ (13:54:02) Introduction to Events](https://youtu.be/gyMwXuJrbJQ?t=50042)*
+
 - [Events & Logging Video](https://www.youtube.com/watch?v=KDYJC85eS5M)
 - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
 ## Events in Raffle.sol
-*[⌨️ (14:00:47) Events in Raffle.sol](https://youtu.be/gyMwXuJrbJQ?t=50447)*
+
 ## Introduction to Chainlink VRF
-*[⌨️ (14:02:30) Introduction to Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50550)*
+
 - [Special Guest Stephen Fluin](https://twitter.com/stephenfluin)
 ### Sub-Lesson: Chainlink VRF
 > - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
 > - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
 > - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
 ## Implementing Chainlink VRF - Introduction
-*[⌨️ (14:09:53) Implementing Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50993)*
+
 ### Hardhat Shorthand
 - [Hardhat Shorthand](https://hardhat.org/guides/shorthand.html)
 ## Implementing Chainlink VRF - The Request
@@ -585,7 +579,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ## Repaying with Aave 
 ## Visualizing the Transactions
 - [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
-## Lesson 13 Recap
+
 ## Happy Bow-Tie Friday with Austin Griffith
 - [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
 - [Speed Run Ethereum](https://speedrunethereum.com/) 
