@@ -70,12 +70,8 @@
 -   See the faucets at the top of this readme!
 -   Interacting with Deployed Contracts
 
-## The EVM & A Recap of Lesson 2
--   The EVM
 
 # Lesson 3: Remix Storage Factory
-
-*[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=11134s)*
 
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
