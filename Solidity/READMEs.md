@@ -235,9 +235,7 @@
 - `CMD + K` or `CTRL + K` clears the terminal
 - `mkdir ethers-simple-storage-fcc`
 - `code .` to open VSCode in a new VSCode window
-### Optional Javascript Crash Courses
-  - [NodeJS Course](https://www.youtube.com/watch?v=RLtyhwFtXQA)
-  - [Javascript Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
+
 - Import your `SimpleStorage.sol`
 - [Solidity + Hardhat VSCode Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
 
