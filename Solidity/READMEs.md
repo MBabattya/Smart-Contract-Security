@@ -3,7 +3,7 @@
 
 
 
-# Lesson 2: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
+# Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
 
 
 
@@ -71,7 +71,7 @@
 -   Interacting with Deployed Contracts
 
 
-# Lesson 3: Remix Storage Factory
+# Lesson 2: Remix Storage Factory
 
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
@@ -93,7 +93,7 @@
 
 
 
-# Lesson 4: Remix Fund Me
+# Lesson 3: Remix Fund Me
 
 
 
