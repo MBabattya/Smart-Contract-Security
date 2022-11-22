@@ -460,7 +460,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-# Lesson 6: Hardhat Smart Contract Lottery
+# Lesson 7: Hardhat Smart Contract Lottery
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
@@ -533,11 +533,11 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
-# Lesson 7: Hardhat Starter Kit
+# Lesson 8: Hardhat Starter Kit
 
 💻 Code: https://github.com/smartcontractkit/hardhat-starter-kit
 
-# Lesson 12: Hardhat ERC20s
+# Lesson 9: Hardhat ERC20s
 
 *[⌨️ (18:59:24) Lesson 12: Hardhat ERC20s](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=68364s)*
 
@@ -556,9 +556,9 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Openzeppelin](https://openzeppelin.com/)
 - [Openzeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [Solmate (Openzeppelin alternative)](https://github.com/Rari-Capital/solmate)
-## Lesson 12 Recap
 
-# Lesson 13: Hardhat DeFi & Aave
+
+# Lesson 10: Hardhat DeFi & Aave
 
 *[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=69373s)*
 
@@ -597,9 +597,9 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
 
-# Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs)
+# Lesson 11: Hardhat NFTs (EVERYTHING you need to know about NFTs)
 
-*[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)*
+
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -667,7 +667,7 @@ Extra credit:
 
 
 
-# Lesson 16: Hardhat Upgrades
+# Lesson 12: Hardhat Upgrades
 
 *[⌨️ (28:53:11) Lesson 16: Hardhat Upgrades](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=103991s)*
 
@@ -699,7 +699,7 @@ Extra credit:
 - [hardhat deploy upgrades examples](https://github.com/wighawag/template-ethereum-contracts/tree/examples/openzeppelin-proxies/deploy)
 
 
-# Lesson 17: Hardhat DAOs
+# Lesson 13: Hardhat DAOs
 
 *[⌨️ (29:45:24) Lesson 17: Hardhat DAOs](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=107124s)*
 
@@ -720,9 +720,9 @@ Extra credit:
 - [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
 - [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
 
-# Lesson 18: Security & Auditing
+# Lesson 14: Security & Auditing
 
-*[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)*
+
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-security-fcc
 
