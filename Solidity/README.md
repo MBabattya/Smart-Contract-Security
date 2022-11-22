@@ -7,7 +7,7 @@
 
 
 
-💻 Code: https://github.com/MBabattya/Smart-Contract-Security/blob/main/Solidity/Codes/SimpleStorage/SimpleStorage.sol
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/SimpleStorage
 
 ## Introduction
 - [Remix](https://remix.ethereum.org/)
