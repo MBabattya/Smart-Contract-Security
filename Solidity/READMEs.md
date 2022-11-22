@@ -1,5 +1,5 @@
 
-# Smart-Contract-Security Journer
+# Smart-Contract-Security Journey
 
 
 
