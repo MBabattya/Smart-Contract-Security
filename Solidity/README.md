@@ -3,7 +3,7 @@
 
 
 
-# Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
+# Lesson 1: [Welcome to Remix! Simple Storage]( https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/SimpleStorage)
 
 
 
@@ -73,7 +73,7 @@
 
 # Lesson 2: Remix Storage Factory
 
-💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/StorageFactory
 
 ## Introduction
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
