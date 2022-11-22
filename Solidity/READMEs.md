@@ -463,8 +463,6 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
-## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20@HardhatHQ,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
-
 
 # Lesson 9: Hardhat Smart Contract Lottery
 
