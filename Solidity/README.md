@@ -95,9 +95,7 @@
 
 # Lesson 3: Remix Fund Me
 
-
-
-💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
+💻 Code: https://github.com/MBabattya/Smart-Contract-Security/tree/main/Solidity/Codes/FundMe
 
 ## Introduction
 
