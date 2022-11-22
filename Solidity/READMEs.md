@@ -368,7 +368,6 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 
 # Lesson 6: Hardhat Fund Me
 
-*[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
@@ -539,8 +538,6 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 # Lesson 9: Hardhat ERC20s
 
-*[⌨️ (18:59:24) Lesson 12: Hardhat ERC20s](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=68364s)*
-
 💻 Code: https://github.com/PatrickAlphaC/hardhat-erc20-fcc
 
 ## What is an ERC? What is an EIP?
@@ -560,7 +557,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 # Lesson 10: Hardhat DeFi & Aave
 
-*[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=69373s)*
+
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
 
@@ -598,8 +595,6 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 
 # Lesson 11: Hardhat NFTs (EVERYTHING you need to know about NFTs)
-
-
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -669,8 +664,6 @@ Extra credit:
 
 # Lesson 12: Hardhat Upgrades
 
-*[⌨️ (28:53:11) Lesson 16: Hardhat Upgrades](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=103991s)*
-
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
 ## Upgradable Smart Contracts Overview
@@ -700,8 +693,6 @@ Extra credit:
 
 
 # Lesson 13: Hardhat DAOs
-
-*[⌨️ (29:45:24) Lesson 17: Hardhat DAOs](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=107124s)*
 
 ⬆️ Up-to-date code: https://github.com/PatrickAlphaC/dao-template
 
