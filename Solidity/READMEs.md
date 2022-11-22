@@ -197,7 +197,7 @@
 🧪 [Alchemy: https://alchemy.com/?a=673c802981](https://alchemy.com/?a=673c802981)
 
 ## Effective Debugging Strategies & Getting Help
-*[⌨️ (5:30:46) Effective Debugging Stategies & Getting Help](https://youtu.be/gyMwXuJrbJQ?t=19846)*
+
 1. Tinker and isolate problem
    1. For this course, take at LEAST 15 minutes to figure out a bug.
 2. Google / Web Search the Exact problem
