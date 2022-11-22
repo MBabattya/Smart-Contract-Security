@@ -394,9 +394,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ## Testnet Demo - Hardhat Fund Me
 
 - Hardhat Deploy Block Confirmations
-### TypeScript
-- [Code file](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc/blob/84271e7002e55d86c90b26466ff27bc067f25de0/deploy/01-deploy-fund-me.ts#L29) (TypeScript edition)
-- Define blockConfirmations in the `helper-hardhat-config.ts` file instead of `hardhat-config.js`. 
+
 ## Solidity Style Guide
 
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
@@ -464,10 +462,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ```bash
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv
 ```
-- Install dependencies (Typescript version):
-```bash
-yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node ts-node typechain typescript
-```
+
 ## Raffle.sol Setup
 
 - [Custom Errors in Solidity](https://blog.soliditylang.org/2021/04/21/custom-errors/)
