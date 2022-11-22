@@ -465,45 +465,6 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 ## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20@HardhatHQ,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
 
-# Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
-
-*[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s)*
-
-💻 Code: https://github.com/PatrickAlphaC/html-fund-me-fcc
-
-## Introduction
-## How Websites work with Web3 Wallets
-- [How to Connect your Smart Contracts to Metamask](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
-  - 💻 Code from Video: https://github.com/PatrickAlphaC/full-stack-web3-metamask-connectors
-  - ✍️ Article from Video: https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019?sk=a2764bcbdae98bf05e1052931de77982
-## HTML Setup
-- Live Server: ExtensionID: ritwickdey.LiveServer
-## Connecting HTML to Metamask
-- [Metamask Docs](https://docs.metamask.io/guide/)
-## Javascript in it's own file
-## ES6 vs Nodejs
-- [ES6 vs Nodesjs](https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export#31367852)
-- [Ethers docs for web browser](https://docs.ethers.io/v5/getting-started/#getting-started--importing--web-browser)
-- [module vs text/javascript](https://stackoverflow.com/questions/51418964/script-type-text-javascript-vs-script-type-module)
-## Sending a transaction from a Website
-- [Web3Provider](https://docs.ethers.io/v5/api/providers/other/#Web3Provider)
-- [Adding a network to metamask](https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC)
-## Resetting an Account in Metamask
-```
-MetaMask - RPC Error:
-[ethjs-query] while formatting ouputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"Nonce too high. Expected nonce to be 2 but got 4. Note that transactions can't be queued when automining."}}}'
-```
-## Listening for Events and Completed Transactions
-- [provider.once](https://docs.ethers.io/v5/api/providers/provider/#Provider-once)
-- [Anonymous function](https://www.geeksforgeeks.org/javascript-anonymous-functions/)
-- [Javascript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-## Input Forms
-## Reading from the Blockchain
-## Withdraw Function
-## Lesson 8 Recap
-### Optional Links:
-- [Browserify](https://browserify.org/)
-- [Watchify](https://www.npmjs.com/package/watchify)
 
 # Lesson 9: Hardhat Smart Contract Lottery
 
