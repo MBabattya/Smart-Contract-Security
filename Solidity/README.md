@@ -542,43 +542,6 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Solmate (Openzeppelin alternative)](https://github.com/Rari-Capital/solmate)
 
 
-# Lesson 10: Hardhat DeFi & Aave
-
-
-
-💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
-
-## What is DeFi?
-- [What is DeFi?](https://chain.link/education/defi)
-- [DefiLlama](https://defillama.com/)
-## What is Aave?
-- [Aave](https://aave.com/)
-- [My Previous Aave Video on Shorting Assets](https://www.youtube.com/watch?v=TmNGAvI-RUA)
-## Programmatic Borrowing & Lending
-- [DAI](https://makerdao.com/en/)
-- [Uniswap](https://app.uniswap.org/)
-## WETH - Wrapped ETH
-- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0x8b7fb00abb67ba04ce894b9e2769fe24a8409a6a)
-- [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
-## Forking Mainnet
-- [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
-## Depositing into Aave
-- [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
-- [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
-## Borrowing from Aave
-- [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
-- [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
-- [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
-## Repaying with Aave 
-## Visualizing the Transactions
-- [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
-
-## Happy Bow-Tie Friday with Austin Griffith
-- [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
-- [Speed Run Ethereum](https://speedrunethereum.com/) 
-### More DeFi Learnings: 
-- [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
-- [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
 
 # Lesson 11: Hardhat NFTs (EVERYTHING you need to know about NFTs)
@@ -679,24 +642,7 @@ Extra credit:
 - [hardhat deploy upgrades examples](https://github.com/wighawag/template-ethereum-contracts/tree/examples/openzeppelin-proxies/deploy)
 
 
-# Lesson 13: Hardhat DAOs
 
-⬆️ Up-to-date code: https://github.com/PatrickAlphaC/dao-template
-
-💻 Code from video: https://github.com/PatrickAlphaC/hardhat-dao-fcc
-
-## Introduction
-## What is a DAO?
-- [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
-## How to build a DAO
-- [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
-- That's Patrick
-- [PY Code](https://github.com/brownie-mix/dao-mix)
-- [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
-- [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
-- [Compound Governance](https://compound.finance/governance)
-- [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
-- [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
 
 # Lesson 14: Security & Auditing
 
