@@ -544,7 +544,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 
 
-# Lesson 11: Hardhat NFTs (EVERYTHING you need to know about NFTs)
+# Lesson 10: Hardhat NFTs (EVERYTHING you need to know about NFTs)
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -612,7 +612,7 @@ Extra credit:
 
 
 
-# Lesson 12: Hardhat Upgrades
+# Lesson 11: Hardhat Upgrades
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
@@ -644,7 +644,7 @@ Extra credit:
 
 
 
-# Lesson 14: Security & Auditing
+# Lesson 11: Security & Auditing
 
 
 
